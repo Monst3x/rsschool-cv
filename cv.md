@@ -1,5 +1,5 @@
 ## My information
-First Name: **Vladislav**  
+First Name: **Vladislav**\
 Last Name: **Khmelev**
 E-Mail: **xx.exhaust@list.ru**
 About me: At the age of 23, I tried myself in a variety of professions and recently became interested in programming, it became interesting to me to solve the tasks set before home, I always liked to learn and reveal myself in something new, I believe that programming is the future, this is a very interesting and unusual profession for me, at the moment I am studying programming in C, but my goal is to become a full-stack developer and master not only the back end, but also the front end sphere
