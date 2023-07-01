@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Monst3x.github.io/rsschool-cv/cv
